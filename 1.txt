@@ -1,4 +1,3 @@
 hi i am updated1 in dev branch
 
-i am in 2nd line
-i am in 4th line
+
